@@ -58,3 +58,19 @@ Agile modelinde her user story için fibonacci serisindeki sayılar gibi 1,2,3,5
 Örnek projede geçerli user story için 3 puanının verildiğini varsaydım.
 
 ![Ekran Görüntüsü (345)_LI](https://user-images.githubusercontent.com/42176018/163267475-17911cfc-b921-4bed-bdf4-f90722b26696.jpg)
+
+#### 7- Subtask (Alt Görev) Oluşturma :
+Bir sorun için, sorunu daha küçük parçalara bölmek veya bir sorunun çeşitli yönlerinin farklı kişilere atanmasına izin vermek için bir ***subtask*** oluşturulabilir. Bu projede geliştirme, manuel test ve otomasyon test için alt görevler oluşturuldu. Bu görevlere ekipten birer kişi atandı.
+
+![subtask oluştur](https://user-images.githubusercontent.com/42176018/163269189-9ea4ed58-c909-4d4f-aa72-aa2e5d74ee89.png)
+
+#### 8- Sprint Ekleme :
+***Sprint***, belirli bir zaman diliminde bitirmeyi hedeflediğimiz iş öğelerinin toplamıdır. Sprintler, sürekli geliştirme döngüsünün zaman kutu setidir. Scrum içerisindeki tüm aktiviteler sprint içerisinde gerçekleşir. 
+
+Sprint planlaması ekip ile birlikte sprint başlamadan önce yapılmalıdır. Sprinte başlamadan önce gereksinimler detaylandırılmalı ve kullanıcı hikayeleri puanlanmalıdır. Sprint öncesi ortak bir anlayış oluşturulmalıdır. Bunun için Product Backlog Refinement (Grooming) toplantıları gerçekleştirilir.
+
+Genellikle 10 günde bir bir sprint oluşturulur. Sprint için puan tahminlemesi yapılır. Ekibin hızı ve çabası baz alınarak puanlama yapılır. Oluşturulan sprinte önceliğe göre sıralanan kullanıcı hikayelerinden henüz gelişmemiş olanlar eklenir. Sprint için belirlenen puana dikkat edilerek kullanıcı hikayeleri eklenir.
+
+Projede her sprint için 12 puanını belirlediğimizi düşündüm. Kullanıcı hikayelerini 12 puanı geçmeyecek şekilde eklemeye ve sprinti oluşturmaya çalıştım.
+
+![Ekran Görüntüsü (347)](https://user-images.githubusercontent.com/42176018/163272501-1fb23dd8-25d0-4e33-8742-75f9bee98882.png)
