@@ -73,4 +73,9 @@ Genellikle 10 günde bir bir sprint oluşturulur. Sprint için puan tahminlemesi
 
 Projede her sprint için 12 puanını belirlediğimizi düşündüm. Kullanıcı hikayelerini 12 puanı geçmeyecek şekilde eklemeye ve sprinti oluşturmaya çalıştım.
 
+![Ekran Görüntüsü (350)](https://user-images.githubusercontent.com/42176018/163273351-82772f95-2690-4ff7-b1e2-f63e818c581b.png)
+
+
+Oluşturulan Scrum Dashboard
+
 ![Ekran Görüntüsü (347)](https://user-images.githubusercontent.com/42176018/163272501-1fb23dd8-25d0-4e33-8742-75f9bee98882.png)
