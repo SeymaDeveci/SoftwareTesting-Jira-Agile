@@ -81,3 +81,17 @@ Projede her sprint için 12 puanını belirlediğimizi düşündüm. Kullanıcı
 Oluşturulan Scrum Dashboard
 
 ![Ekran Görüntüsü (347)](https://user-images.githubusercontent.com/42176018/163272501-1fb23dd8-25d0-4e33-8742-75f9bee98882.png)
+
+#### 9- Daily Stand Up Toplantısı :
+Günlük olarak yapılan Scrum toplantısıdır. Development Team her gün 15 dakika ayırarak sprint hedefine ulaşırken yapacakları etkinlikleri senkronize eder ve sonraki 24 saat için bir plan geliştirir. Kaliteli bir ürünün ortaya çıkmasına katkı sağlar. Takım üyeleri arasındaki iş birliğini artırır ve yüksek motivasyon ile çalışnayı sağlar.
+
+Amaç : Kendi kendine organize olan bir takımın sprint esnasındaki akışı daha iyi yönetebilmesidir. 
+
+Product Owner'ın ve Scrum Master'ın bu toplantıya katılması zorunlu değildir.
+
+#### 10- Retrospective Toplantısı :
+Scrum takımının takımca yaptığı sprint veya genel iş akışının üzerine kişiler, ilişkiler ve araçlar kapsamında geriye yönelik bir değerlendirme ve iyileştirmedir. Takımın " Nasıl daha iyi yaparız? " sorusuna cevaplar bulduğu bir toplantıdır. Scrum takım üyeleri çalışma şekillerine dair negatif, pozitif olarak değerlendirdikleri tüm konuları açık yüreklilikle konuşurlar. Daha sonra konuşulan maddelere dair kök sebepler bulunmalı, aksiyonlar çıkmalı ve bu aksiyonlar takım tarafından takip edilerek hayata geçirilmelidir.
+
+Retrospective araçları : 
+- Mad / Sad / Glad Yöntemi
+- Starfish Yöntemi
