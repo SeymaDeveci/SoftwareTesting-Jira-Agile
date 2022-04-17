@@ -53,6 +53,8 @@ Kabul kriterleri geliştirme ekibi ve ürün sahibi tarafından ortaklaşa geli�
 ![kullanıcı kabul kriterleri yazma](https://user-images.githubusercontent.com/42176018/163264524-a63d09a8-0a90-44f8-9ba0-22dd90607d5f.png)
 
 #### 6- Grooming Toplantılarında Kullanıcı Hikayelerini Puanlama :
+Agile bir ortamda bir sprint tamamlandığında bir diğeri başlar. Bu durumda yaklaşan bir sonraki sprint için başlamadan önce hazır olmamız gerekir. Sprint sonuna yakın Grooming (Product Backlog Refinement) toplantısı yapılır. Product Owner önderliğinde Scrum Master ve Development Team katılmalıdır. Asıl amaç, bir sonraki sprint için ortak bir anlayış oluşturmaktır.
+
 Agile modelinde her user story için fibonacci serisindeki sayılar gibi 1,2,3,5,8,13 gibi puanlar verilir. Bu puanlar yapılacak işin büyüklüğü, karmaşıklığı, içerdiği riskleri ve belirsizlikleri baz alınarak yapılır. En çok söylenen puan kabul görür ve Story Points kısmına yazılır.
 
 Örnek projede geçerli user story için 3 puanının verildiğini varsaydım.
