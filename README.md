@@ -95,3 +95,14 @@ Scrum takımının takımca yaptığı sprint veya genel iş akışının üzeri
 Retrospective araçları : 
 - Mad / Sad / Glad Yöntemi
 - Starfish Yöntemi
+
+#### 11- Sprint Raporu Oluşturma :
+Sprint’i kapattıktan sonra sistem doğrudan Sprint Report sayfasına götürecektir. Otomatik olarak sistem tarafından oluşturulan sprint raporunda tamamlanan işler ile Backlog'a gönderilen işler gösterilir.
+
+![tamamlanan sprint](https://user-images.githubusercontent.com/42176018/163710305-ba582565-7723-4252-a9f8-88890e1e6e86.png)
+
+![sprint raporu](https://user-images.githubusercontent.com/42176018/163710338-fdf6e61d-e35f-499b-aa9a-e850cf1ad3f4.png)
+
+Velocity Chart, ekibin her sprintte tamamladığı işi gösterir. Böylece ekibin kapasitesini ölçebilir ve ileriye dönük planlama yapabiliriz.
+
+![velocity chart](https://user-images.githubusercontent.com/42176018/163710376-23adfa1b-9aa8-401b-9536-6bbe8a31a8e9.png)
