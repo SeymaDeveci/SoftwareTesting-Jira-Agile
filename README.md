@@ -106,3 +106,17 @@ Sprint’i kapattıktan sonra sistem doğrudan Sprint Report sayfasına götüre
 Velocity Chart, ekibin her sprintte tamamladığı işi gösterir. Böylece ekibin kapasitesini ölçebilir ve ileriye dönük planlama yapabiliriz.
 
 ![velocity chart](https://user-images.githubusercontent.com/42176018/163710376-23adfa1b-9aa8-401b-9536-6bbe8a31a8e9.png)
+
+#### 12- Kanban Board Oluşturma :
+Kanban bir agile proje yönetim tekniğidir. Kanban, bir süreç içinde hareket ederken işi yönetmek için kullanılan görsel bir sistemdir. 
+
+Hem Scrum hem de Kanban büyük, karmaşık projeleri yönetilebilir parçalara ayırmanıza ve iş akışlarını tüm ekibi döngüde tutacak şekilde görselleştirmenize olanak tanır.
+
+Kanban ve Scrum arasındaki en temel fark Kanban'da sprintlerin olmamasıdır. Bu yüzden sprint planlama toplantısına ihtiyaç yoktur. 
+
+Kanban'da bir projenin yaşam döngüsü tek bir Kanban Panosu kullanılarak yapılır. Kanban panoları görevler ve zamanlama açısından daha esnektir.
+
+Jira aracında oluşturduğum Kanban Panosu 
+
+![Kanban board](https://user-images.githubusercontent.com/42176018/163711007-172c10e2-ada0-45f4-91e4-15e3c5e7b229.png)
+
