@@ -120,3 +120,7 @@ Jira aracında oluşturduğum Kanban Panosu
 
 ![Kanban board](https://user-images.githubusercontent.com/42176018/163711007-172c10e2-ada0-45f4-91e4-15e3c5e7b229.png)
 
+#### 13- Parola Sıfırlama İşlevini Doğrulayan Test Senaryosu :
+Parola sıfırlama işlevini doğrulamak için yazılmış test adımlarından oluşan basit bir senaryodur. Excel dosyasında yazılmıştır.
+
+![ParolaSıfırlama](https://user-images.githubusercontent.com/42176018/164069121-c71f0d0d-9467-4d39-9d2e-2c54d9974a53.png)
