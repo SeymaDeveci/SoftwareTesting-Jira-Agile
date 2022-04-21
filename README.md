@@ -124,3 +124,27 @@ Jira aracında oluşturduğum Kanban Panosu
 Parola sıfırlama işlevini doğrulamak için yazılmış test adımlarından oluşan basit bir senaryodur. Excel dosyasında yazılmıştır.
 
 ![ParolaSıfırlama](https://user-images.githubusercontent.com/42176018/164069121-c71f0d0d-9467-4d39-9d2e-2c54d9974a53.png)
+
+####  14- Jira'da Xray Uygulamasına Giriş :
+Xray, test planlamasından tasarım, uygulama ve test raporlamasına kadar bütün test döngüsünü yönetmek için tasarlanmıştır. Test yönetimi uygulamasıdır.
+
+- Xray uygulamasının Jira'ya eklenmesi
+
+![xray kurulumu](https://user-images.githubusercontent.com/42176018/164454004-dd3a2ca5-3b3e-49a0-b3fb-8d4c2331676a.png)
+
+- Test açıklamasının ve test adımlarının yazılması. Test senaryolarının oluşturulması.
+
+![Test senaryosunun oluşturulması](https://user-images.githubusercontent.com/42176018/164454604-3c9d5b74-49b7-480b-aa5e-88edd42de202.png)
+
+- Test ön koşulunun yazılması.
+
+![test ön  koşulu](https://user-images.githubusercontent.com/42176018/164455448-aeb75959-e9a4-48f5-a98d-d3e03128618b.png)
+
+- Bir grup test senaryosunu içeren test setinin oluşturulması.
+
+![test set](https://user-images.githubusercontent.com/42176018/164464330-0dd996a5-59b4-4ce2-9bbb-56316ea37c9d.png)
+
+- 26 Nisan 2022 gününü hedefleyen yayın için test planı oluşturulması. Böylece insanlar sadece bu sürümü açacak, bir planı test edecek ve yapmak istedikleri testlerin ne olduğunu bilecekler. 26 Nisan'da yayınlanmasının önemli olduğu test senaryolarnı belirtme.
+
+![testtt plann](https://user-images.githubusercontent.com/42176018/164467216-70da3c86-10fa-46c2-aa5d-02903dde6152.png)
+
