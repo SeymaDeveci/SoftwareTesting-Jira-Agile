@@ -146,5 +146,5 @@ Xray, test planlamasından tasarım, uygulama ve test raporlamasına kadar büt�
 
 - 26 Nisan 2022 gününü hedefleyen yayın için test planı oluşturulması. Böylece insanlar sadece bu sürümü açacak, bir planı test edecek ve yapmak istedikleri testlerin ne olduğunu bilecekler. 26 Nisan'da yayınlanmasının önemli olduğu test senaryolarnı belirtme.
 
-![testtt plann](https://user-images.githubusercontent.com/42176018/164467216-70da3c86-10fa-46c2-aa5d-02903dde6152.png)
+![testplan](https://user-images.githubusercontent.com/42176018/164472927-7f6a7ce7-2996-48ff-95cd-429ebdc0d982.png)
 
