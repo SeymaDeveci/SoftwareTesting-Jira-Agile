@@ -148,3 +148,13 @@ Xray, test planlamasından tasarım, uygulama ve test raporlamasına kadar büt�
 
 ![testplan](https://user-images.githubusercontent.com/42176018/164472927-7f6a7ce7-2996-48ff-95cd-429ebdc0d982.png)
 
+- Test Execution ile önceden tanımlanmış test senaryoları yürütülür. Testin başarılı ve başarısız olduğunu işaretleyeceğimiz yerdir.
+
+![test execution](https://user-images.githubusercontent.com/42176018/164474857-bd1d5edd-3715-4fba-bbb2-289406bbc5a9.png)
+
+![teststate](https://user-images.githubusercontent.com/42176018/164477654-98fbf568-8603-405a-9fc6-0396b56089d5.png)
+
+#### 15-  Jira Linking Issues Özelliğini Kullanma :
+Bu özellik iki issues birbirinin kopyasıymış veya birbiriyle ilişkiliymiş gibi birbirine bir tür bağımlılığı olduğunda çok kullanılır. Bu aynı zamanda kullanıcı hikayesi yapmak için testi Case'e bağlayabileceğiniz önemli konulardan biridir.
+
+![Linked test](https://user-images.githubusercontent.com/42176018/164682844-54aaf000-fbbb-4105-b561-9634dbe14607.jpg)
